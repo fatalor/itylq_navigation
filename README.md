@@ -8,15 +8,15 @@ keywords：IT摇篮曲网址导航,网址导航,网站导航,IT摇篮曲,绿色�
                     <a href="https://hao.itylq.com" style="color:black" class="nav-link"><i class="fe fe-home"></i> 首页</a>
                   </li>
                   <li class="nav-item">
-                    <a href="https://hao.itylq.com/article" style="color:black" class="nav-link"><i class="fe fe-book"></i> 资讯中心</a>
+                    <a href="https://hao.itylq.com/?cate=4" style="color:black" class="nav-link"><i class="fe fe-book"></i> 娱乐在线</a>
                   </li>
                   <li class="nav-item">
-                    <a href="https://hao.itylq.com/hot" style="color:black" class="nav-link"><i class="fe fe-crosshair"></i> 热门关注</a>
+                    <a href="https://hao.itylq.com/?cate=34" style="color:black" class="nav-link"><i class="fe fe-crosshair"></i> 在线工具</a>
                   </li>
                   <li class="nav-item">
-                    <a href="https://hao.itylq.com/daily" style="color:black" class="nav-link"><i class="fe fe-file"></i> 每日一文</a>
+                    <a href="https://hao.itylq.com/?cate=35" style="color:black" class="nav-link"><i class="fe fe-file"></i> 资源下载</a>
                   </li>
                   <li class="nav-item">
-                    <a href="https://hao.itylq.com/home" style="color:black" class="nav-link"><i class="fe fe-edit"></i> 随心笔记</a>
+                    <a href="https://hao.itylq.com/12.html" style="color:black" class="nav-link"><i class="fe fe-edit"></i> 博客大全</a>
                   </li></ul></div>
 <a href="https://hao.itylq.com" target="_blank"><img src="https://www.itylq.com/wp-content/uploads/2022/10/202210092269-itylq.png"></a>
